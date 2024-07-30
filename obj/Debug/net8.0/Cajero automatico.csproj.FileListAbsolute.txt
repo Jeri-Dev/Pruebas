@@ -1,0 +1,30 @@
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\appsettings.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.staticwebassets.runtime.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.exe
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.deps.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.runtimeconfig.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.dll
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\bin\Debug\net8.0\Cajero automatico.pdb
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.AssemblyInfoInputs.cache
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.AssemblyInfo.cs
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.csproj.CoreCompileInputs.cache
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.RazorAssemblyInfo.cache
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.RazorAssemblyInfo.cs
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets\msbuild.Cajero automatico.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets\msbuild.build.Cajero automatico.props
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cajero automatico.props
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cajero automatico.props
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\scopedcss\bundle\Cajero automatico.styles.css
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\scopedcss\projectbundle\Cajero automatico.bundle.scp.css
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.dll
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\refint\Cajero automatico.dll
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.pdb
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\Cajero automatico.genruntimeconfig.cache
+C:\Users\jgome\source\repos\Cajero automatico\Cajero automatico\obj\Debug\net8.0\ref\Cajero automatico.dll
